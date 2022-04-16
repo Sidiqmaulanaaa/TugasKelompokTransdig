@@ -1,4 +1,4 @@
-transaction_date,house_age,distance_to_the_nearest_MRT_station,number_of_convenience_stores,latitude,longitude,house_price_of_unit_area
+transactiondate,houseage,distancetothenearestMRTstation,numberofconveniencestores,latitude,longitude,housepriceofunitarea
 2012.92,32.00,84.88,10.00,24.98,121.54,37.90
 2012.92,19.50,306.59,9.00,24.98,121.54,42.20
 2013.58,13.30,561.98,5.00,24.99,121.54,47.30
